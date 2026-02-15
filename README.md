@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Zaid, a Computer Information Systems student at the University of Jordan - Aqaba. I work on web development projects using JavaScript, TypeScript, React, Vue.js, Node.js, Express.js, MongoDB, and PostgreSQL.<br><br>Checkout my portfolio at: https://zaidqtaish.github.io</p>
+<p align="left">I’m Zaid a CIS Student @ JU and a Full-stack dev who’d rather be building robots. 🤖.<br><br>Checkout my portfolio at: https://zaidqtaish.github.io</p>
 
 ###
 
