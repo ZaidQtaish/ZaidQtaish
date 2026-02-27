@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Zaid a CIS Student @ JU and a Full-stack dev who’d rather be building robots. 🤖.<br><br>Checkout my portfolio at: https://zaidqtaish.github.io</p>
+<p align="left">I’m Zaid a Full-stack dev who’d rather be building robots. 🤖.<br><br>Checkout my portfolio at: https://zaidqtaish.github.io</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2022 .<br>📚 I'm currently getting into open source contribution.<br>🎯 Goals: Aiming to land a junior web developer role in Jordan’s tech scene.</p>
+<p align="left">✨ Coding since 2022 .<br>📚 I'm currently getting into open source contribution.<br>🎯 Goals: Aiming to land a Full-stack developer role in Jordan’s tech scene.</p>
 
 ###
 
