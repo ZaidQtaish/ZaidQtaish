@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2022 .<br>📚 I'm currently getting into open source contribution.<br>🎯 Goals: Aiming to land a Full-stack developer role in Jordan’s tech scene.</p>
+<p align="left">✨ Coding since 2022 .<br>📚 I'm passsionate about open source culture and contribution.<br>🎯 Goals: Aiming to land a Full-stack developer role in Jordan’s tech scene.</p>
 
 ###
 
