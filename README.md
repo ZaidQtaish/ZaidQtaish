@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Zaid a Full-stack dev who’d rather be building robots. 🤖.<br><br>Checkout my portfolio at: https://zaidqtaish.github.io</p>
+<p align="left">I’m Zaid a Full-stack dev who’d rather be building robots. 🤖.<br><br>Checkout my portfolio at: https://zaidq.dev</p>
 
 ###
 
