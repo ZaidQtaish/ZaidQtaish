@@ -63,3 +63,6 @@ Currently contributing to open source and looking for full-stack roles.
 </div>
 
 ###
+
+#### Email: enderzaide@gmail.com
+[LinkedIn](https://www.linkedin.com/in/zaid-qtaish/)
