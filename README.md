@@ -1,16 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Zaid Qtaish
 
-###
+Full-stack developer based in Jordan. [Portfolio](https://zaidq.dev)
 
-<p align="left">I’m Zaid a Full-stack dev who’d rather be building robots. 🤖.<br><br>Checkout my portfolio at: https://zaidq.dev</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Coding since 2022 .<br>📚 I'm passsionate about open source culture and contribution.<br>🎯 Goals: Aiming to land a Full-stack developer role in Jordan’s tech scene.</p>
+Currently contributing to open source and looking for full-stack roles.
 
 ###
 
